@@ -4,14 +4,18 @@
 	table {
 		width:1800px; 
 		height:224px;  
-		border:1px solid white;	
+		border:2px solid white;	
 	}
 	
-	td,th,tr {
+	th {
 		padding:1em;
 		border:2px solid white;
-		background-color:#f2f2f2;
 	}
+
+	tr, td {
+		background-color:lightgray;
+		padding:1em;	
+	}		
 	
 	th {
 		background-color:#43956f;
