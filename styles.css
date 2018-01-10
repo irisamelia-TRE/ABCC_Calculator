@@ -2,6 +2,8 @@
 	form, table {margin: 0 auto; }
 	
 	table {
+		width:800px;
+		height:826px;
 		border:2px solid white;	
 	}
 	
